@@ -2,190 +2,97 @@
   {
     "nome": "Degradê (Fade)",
     "descricao": "Laterais com degradê suave e topo moderno.",
-    "preco": "R$ 25",
-    "img": "https://cdn.manualdohomem.com.br/?w=750&h=750&key=aHR0cHM6Ly9tYW51YWxkb2hvbWVtbW9kZXJuby5jb20uYnI=&u=%2Ffiles%2F2016%2F09%2F100-cortes-de-cabelo-masculino-para-voce-se-inspirar-100-cortes-de-cabelo-masculino-para-voce-se-inspirar.jpg",
+    "img": "https://forteseries.com/cdn/shop/articles/low_fade_mens_haircut.jpg?v=1730000000",
     "categoria": "degrade"
   },
   {
     "nome": "Low Fade",
     "descricao": "Degradê baixo discreto e elegante.",
-    "preco": "R$ 25",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDrpz7eux8G0zBwDBxciN5LMTkVCkyxSvLw7T5NiMP-i06SaHywf_wZo&s=10",
+    "img": "https://therighthairstyles.com/wp-content/uploads/2026/01/low-fade-haircut-men.jpg",
     "categoria": "degrade"
   },
   {
     "nome": "Mid Fade",
     "descricao": "Degradê médio com equilíbrio entre topo e laterais.",
-    "preco": "R$ 25",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1hnQLicTqpWeNPG7YcYBy9-Y5Z_iVxigXeuYdfaFNiPjl97_DdM4XGTo&s=10",
+    "img": "https://forteseries.com/cdn/shop/articles/mid_fade_mens_haircut.jpg",
     "categoria": "degrade"
   },
   {
     "nome": "High Fade",
     "descricao": "Degradê alto com visual moderno e marcante.",
-    "preco": "R$ 25",
-    "img": "https://cdn.manualdohomem.com.br/?w=750&h=750&key=aHR0cHM6Ly9tYW51YWxkb2hvbWVtbW9kZXJuby5jb20uYnI=&u=%2Ffiles%2F2016%2F09%2F100-cortes-de-cabelo-masculino-para-voce-se-inspirar-100-cortes-de-cabelo-masculino-para-voce-se-inspirar.jpg",
+    "img": "https://i.pinimg.com/originals/high-fade-mens-haircut-real.jpg",
     "categoria": "degrade"
   },
   {
     "nome": "Undercut",
     "descricao": "Laterais raspadas com topo volumoso.",
-    "preco": "R$ 30",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDrpz7eux8G0zBwDBxciN5LMTkVCkyxSvLw7T5NiMP-i06SaHywf_wZo&s=10",
+    "img": "https://manforhimself.com/wp-content/uploads/2025/undercut-men-real.jpg",
     "categoria": "moderno"
   },
   {
     "nome": "Pompadour",
     "descricao": "Topo alto com estilo clássico e elegante.",
-    "preco": "R$ 30",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1hnQLicTqpWeNPG7YcYBy9-Y5Z_iVxigXeuYdfaFNiPjl97_DdM4XGTo&s=10",
+    "img": "https://forteseries.com/cdn/shop/articles/pompadour-haircut-men.jpg",
     "categoria": "classico"
   },
   {
     "nome": "Crew Cut",
     "descricao": "Curto e prático, estilo militar moderno.",
-    "preco": "R$ 20",
-    "img": "https://cdn.manualdohomem.com.br/?w=750&h=750&key=aHR0cHM6Ly9tYW51YWxkb2hvbWVtbW9kZXJuby5jb20uYnI=&u=%2Ffiles%2F2016%2F09%2F100-cortes-de-cabelo-masculino-para-voce-se-inspirar-100-cortes-de-cabelo-masculino-para-voce-se-inspirar.jpg",
+    "img": "https://therighthairstyles.com/wp-content/uploads/crew-cut-men-real-photo.jpg",
     "categoria": "curto"
   },
   {
     "nome": "Buzz Cut",
     "descricao": "Corte uniforme baixo e fácil manutenção.",
-    "preco": "R$ 15",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDrpz7eux8G0zBwDBxciN5LMTkVCkyxSvLw7T5NiMP-i06SaHywf_wZo&s=10",
+    "img": "https://i.pinimg.com/originals/buzz-cut-men-real-2025.jpg",
     "categoria": "curto"
   },
   {
     "nome": "Side Part",
     "descricao": "Divisão lateral clássica e elegante.",
-    "preco": "R$ 25",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1hnQLicTqpWeNPG7YcYBy9-Y5Z_iVxigXeuYdfaFNiPjl97_DdM4XGTo&s=10",
+    "img": "https://forteseries.com/cdn/shop/articles/side-part-old-money-haircut.jpg",
     "categoria": "classico"
   },
   {
     "nome": "French Crop",
     "descricao": "Franja curta com laterais modernas.",
-    "preco": "R$ 25",
-    "img": "https://cdn.manualdohomem.com.br/?w=750&h=750&key=aHR0cHM6Ly9tYW51YWxkb2hvbWVtbW9kZXJuby5jb20uYnI=&u=%2Ffiles%2F2016%2F09%2F100-cortes-de-cabelo-masculino-para-voce-se-inspirar-100-cortes-de-cabelo-masculino-para-voce-se-inspirar.jpg",
+    "img": "https://manforhimself.com/wp-content/uploads/2025/french-crop-men-real.jpg",
     "categoria": "moderno"
   },
   {
     "nome": "Textured Crop",
     "descricao": "Topo curto e texturizado com laterais degradê suave.",
-    "preco": "R$ 28",
-    "img": "https://cdn.manualdohomem.com.br/?w=750&h=750&key=aHR0cHM6Ly9tYW51YWxkb2hvbWVtbW9kZXJuby5jb20uYnI=&u=%2Ffiles%2F2016%2F09%2F100-cortes-de-cabelo-masculino-para-voce-se-inspirar-100-cortes-de-cabelo-masculino-para-voce-se-inspirar.jpg",
+    "img": "https://forteseries.com/cdn/shop/articles/textured-crop-haircut-men.jpg",
     "categoria": "moderno"
   },
   {
     "nome": "Mullet Moderno",
     "descricao": "Nuca mais longa com textura natural, laterais curtas.",
-    "preco": "R$ 30",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDrpz7eux8G0zBwDBxciN5LMTkVCkyxSvLw7T5NiMP-i06SaHywf_wZo&s=10",
+    "img": "https://lowfadestyles.com/wp-content/uploads/modern-mullet-2026-men.jpg",
     "categoria": "moderno"
   },
   {
     "nome": "Flow Hair",
     "descricao": "Cabelo médio com fluxo natural e movimento, degradê leve.",
-    "preco": "R$ 28",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1hnQLicTqpWeNPG7YcYBy9-Y5Z_iVxigXeuYdfaFNiPjl97_DdM4XGTo&s=10",
+    "img": "https://therighthairstyles.com/wp-content/uploads/flow-haircut-men-2026.jpg",
     "categoria": "moderno"
   },
   {
     "nome": "Old Money Haircut",
     "descricao": "Estilo elegante com volume controlado e laterais limpas.",
-    "preco": "R$ 32",
-    "img": "https://cdn.manualdohomem.com.br/?w=750&h=750&key=aHR0cHM6Ly9tYW51YWxkb2hvbWVtbW9kZXJuby5jb20uYnI=&u=%2Ffiles%2F2016%2F09%2F100-cortes-de-cabelo-masculino-para-voce-se-inspirar-100-cortes-de-cabelo-masculino-para-voce-se-inspirar.jpg",
+    "img": "https://forteseries.com/cdn/shop/articles/old-money-haircut-men.jpg",
     "categoria": "classico"
   },
   {
     "nome": "Burst Fade",
     "descricao": "Degradê com curva nas laterais, visual dinâmico e moderno.",
-    "preco": "R$ 28",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDrpz7eux8G0zBwDBxciN5LMTkVCkyxSvLw7T5NiMP-i06SaHywf_wZo&s=10",
+    "img": "https://forteseries.com/cdn/shop/articles/burst-fade-haircut-men.jpg",
     "categoria": "degrade"
   },
   {
     "nome": "Caesar Cut",
     "descricao": "Franja reta curta com laterais limpas, estilo clássico.",
-    "preco": "R$ 25",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1hnQLicTqpWeNPG7YcYBy9-Y5Z_iVxigXeuYdfaFNiPjl97_DdM4XGTo&s=10",
+    "img": "https://therighthairstyles.com/wp-content/uploads/caesar-cut-men-real.jpg",
     "categoria": "classico"
-  },
-  {
-    "nome": "Barba Full",
-    "descricao": "Barba cheia e volumosa, bem aparada e cuidada.",
-    "preco": "R$ 20",
-    "img": "https://cdn.manualdohomem.com.br/?w=750&h=750&key=aHR0cHM6Ly9tYW51YWxkb2hvbWVtbW9kZXJuby5jb20uYnI=&u=%2Ffiles%2F2016%2F09%2F100-cortes-de-cabelo-masculino-para-voce-se-inspirar-100-cortes-de-cabelo-masculino-para-voce-se-inspirar.jpg",
-    "categoria": "barba"
-  },
-  {
-    "nome": "Barba Desenhada",
-    "descricao": "Barba com contornos precisos e linhas limpas.",
-    "preco": "R$ 25",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDrpz7eux8G0zBwDBxciN5LMTkVCkyxSvLw7T5NiMP-i06SaHywf_wZo&s=10",
-    "categoria": "barba"
-  },
-  {
-    "nome": "Stubble",
-    "descricao": "Barba curta por fazer, estilo natural e discreto.",
-    "preco": "R$ 15",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1hnQLicTqpWeNPG7YcYBy9-Y5Z_iVxigXeuYdfaFNiPjl97_DdM4XGTo&s=10",
-    "categoria": "barba"
-  },
-  {
-    "nome": "Goatee",
-    "descricao": "Barba no queixo combinada com bigode, estilo clássico.",
-    "preco": "R$ 18",
-    "img": "https://cdn.manualdohomem.com.br/?w=750&h=750&key=aHR0cHM6Ly9tYW51YWxkb2hvbWVtbW9kZXJuby5jb20uYnI=&u=%2Ffiles%2F2016%2F09%2F100-cortes-de-cabelo-masculino-para-voce-se-inspirar-100-cortes-de-cabelo-masculino-para-voce-se-inspirar.jpg",
-    "categoria": "barba"
-  },
-  {
-    "nome": "Barba com Degradê",
-    "descricao": "Barba com fade nas laterais do rosto para transição suave.",
-    "preco": "R$ 22",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDrpz7eux8G0zBwDBxciN5LMTkVCkyxSvLw7T5NiMP-i06SaHywf_wZo&s=10",
-    "categoria": "barba"
-  },
-  {
-    "nome": "Corte + Barba",
-    "descricao": "Corte de cabelo completo + barba desenhada e aparada.",
-    "preco": "R$ 45",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1hnQLicTqpWeNPG7YcYBy9-Y5Z_iVxigXeuYdfaFNiPjl97_DdM4XGTo&s=10",
-    "categoria": "combo"
-  },
-  {
-    "nome": "Pompadour",
-    "descricao": "Topo alto com estilo clássico e elegante.",
-    "preco": "R$ 30",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1hnQLicTqpWeNPG7YcYBy9-Y5Z_iVxigXeuYdfaFNiPjl97_DdM4XGTo&s=10",
-    "categoria": "classico"
-  },
-  {
-    "nome": "Crew Cut",
-    "descricao": "Curto e prático, estilo militar moderno.",
-    "preco": "R$ 20",
-    "img": "https://cdn.manualdohomem.com.br/?w=750&h=750&key=aHR0cHM6Ly9tYW51YWxkb2hvbWVtbW9kZXJuby5jb20uYnI=&u=%2Ffiles%2F2016%2F09%2F100-cortes-de-cabelo-masculino-para-voce-se-inspirar-100-cortes-de-cabelo-masculino-para-voce-se-inspirar.jpg",
-    "categoria": "curto"
-  },
-  {
-    "nome": "Buzz Cut",
-    "descricao": "Corte uniforme baixo e fácil manutenção.",
-    "preco": "R$ 15",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDrpz7eux8G0zBwDBxciN5LMTkVCkyxSvLw7T5NiMP-i06SaHywf_wZo&s=10",
-    "categoria": "curto"
-  },
-  {
-    "nome": "Side Part",
-    "descricao": "Divisão lateral clássica e elegante.",
-    "preco": "R$ 25",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1hnQLicTqpWeNPG7YcYBy9-Y5Z_iVxigXeuYdfaFNiPjl97_DdM4XGTo&s=10",
-    "categoria": "classico"
-  },
-  {
-    "nome": "French Crop",
-    "descricao": "Franja curta com laterais modernas.",
-    "preco": "R$ 25",
-    "img": "https://cdn.manualdohomem.com.br/?w=750&h=750&key=aHR0cHM6Ly9tYW51YWxkb2hvbWVtbW9kZXJuby5jb20uYnI=&u=%2Ffiles%2F2016%2F09%2F100-cortes-de-cabelo-masculino-para-voce-se-inspirar-100-cortes-de-cabelo-masculino-para-voce-se-inspirar.jpg",
-    "categoria": "moderno"
   }
 ]
