@@ -1,14 +1,72 @@
 [
   {
-    "nome": "Corte masculino",
-    "img": "https://negociosdebeleza.beautyfair.com.br/wp-content/uploads/2025/10/corte-de-cabelo-masculino-mullet-moderno-683x1024.jpeg",
-    "descricao": "Corte moderno degradê",
-    "preco": "R$ 25"
+    "nome": "Degradê (Fade)",
+    "descricao": "Laterais com degradê suave e topo moderno.",
+    "preco": "R$ 25",
+    "img": "https://cdn.manualdohomem.com.br/?w=750&h=750&key=aHR0cHM6Ly9tYW51YWxkb2hvbWVtbW9kZXJuby5jb20uYnI=&u=%2Ffiles%2F2016%2F09%2F100-cortes-de-cabelo-masculino-para-voce-se-inspirar-100-cortes-de-cabelo-masculino-para-voce-se-inspirar.jpg",
+    "categoria": "degrade"
   },
   {
-    "nome": "Barba",
-    "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4kOI3uoEuRhqRPBJ6t23MpGG7n0z49K6VRUIwoH5RiAcZPbq1kzfCB7Y&s=10",
-    "descricao": "Modelagem completa",
-    "preco": "R$ 15"
+    "nome": "Low Fade",
+    "descricao": "Degradê baixo discreto e elegante.",
+    "preco": "R$ 25",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDrpz7eux8G0zBwDBxciN5LMTkVCkyxSvLw7T5NiMP-i06SaHywf_wZo&s=10",
+    "categoria": "degrade"
+  },
+  {
+    "nome": "Mid Fade",
+    "descricao": "Degradê médio com equilíbrio entre topo e laterais.",
+    "preco": "R$ 25",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1hnQLicTqpWeNPG7YcYBy9-Y5Z_iVxigXeuYdfaFNiPjl97_DdM4XGTo&s=10",
+    "categoria": "degrade"
+  },
+  {
+    "nome": "High Fade",
+    "descricao": "Degradê alto com visual moderno e marcante.",
+    "preco": "R$ 25",
+    "img": "https://cdn.manualdohomem.com.br/?w=750&h=750&key=aHR0cHM6Ly9tYW51YWxkb2hvbWVtbW9kZXJuby5jb20uYnI=&u=%2Ffiles%2F2016%2F09%2F100-cortes-de-cabelo-masculino-para-voce-se-inspirar-100-cortes-de-cabelo-masculino-para-voce-se-inspirar.jpg",
+    "categoria": "degrade"
+  },
+  {
+    "nome": "Undercut",
+    "descricao": "Laterais raspadas com topo volumoso.",
+    "preco": "R$ 30",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDrpz7eux8G0zBwDBxciN5LMTkVCkyxSvLw7T5NiMP-i06SaHywf_wZo&s=10",
+    "categoria": "moderno"
+  },
+  {
+    "nome": "Pompadour",
+    "descricao": "Topo alto com estilo clássico e elegante.",
+    "preco": "R$ 30",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1hnQLicTqpWeNPG7YcYBy9-Y5Z_iVxigXeuYdfaFNiPjl97_DdM4XGTo&s=10",
+    "categoria": "classico"
+  },
+  {
+    "nome": "Crew Cut",
+    "descricao": "Curto e prático, estilo militar moderno.",
+    "preco": "R$ 20",
+    "img": "https://cdn.manualdohomem.com.br/?w=750&h=750&key=aHR0cHM6Ly9tYW51YWxkb2hvbWVtbW9kZXJuby5jb20uYnI=&u=%2Ffiles%2F2016%2F09%2F100-cortes-de-cabelo-masculino-para-voce-se-inspirar-100-cortes-de-cabelo-masculino-para-voce-se-inspirar.jpg",
+    "categoria": "curto"
+  },
+  {
+    "nome": "Buzz Cut",
+    "descricao": "Corte uniforme baixo e fácil manutenção.",
+    "preco": "R$ 15",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDrpz7eux8G0zBwDBxciN5LMTkVCkyxSvLw7T5NiMP-i06SaHywf_wZo&s=10",
+    "categoria": "curto"
+  },
+  {
+    "nome": "Side Part",
+    "descricao": "Divisão lateral clássica e elegante.",
+    "preco": "R$ 25",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1hnQLicTqpWeNPG7YcYBy9-Y5Z_iVxigXeuYdfaFNiPjl97_DdM4XGTo&s=10",
+    "categoria": "classico"
+  },
+  {
+    "nome": "French Crop",
+    "descricao": "Franja curta com laterais modernas.",
+    "preco": "R$ 25",
+    "img": "https://cdn.manualdohomem.com.br/?w=750&h=750&key=aHR0cHM6Ly9tYW51YWxkb2hvbWVtbW9kZXJuby5jb20uYnI=&u=%2Ffiles%2F2016%2F09%2F100-cortes-de-cabelo-masculino-para-voce-se-inspirar-100-cortes-de-cabelo-masculino-para-voce-se-inspirar.jpg",
+    "categoria": "moderno"
   }
 ]
