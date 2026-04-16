@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "nome": "Degradê Clássico",
+    "descricao": "Degradê suave com acabamento na navalha.",
+    "preco": "Serviço realizado",
+    "img": "https://cdn.manualdohomem.com.br/?w=750&h=750&key=aHR0cHM6Ly9tYW51YWxkb2hvbWVtbW9kZXJuby5jb20uYnI=&u=%2Ffiles%2F2016%2F09%2F100-cortes-de-cabelo-masculino-para-voce-se-inspirar-100-cortes-de-cabelo-masculino-para-voce-se-inspirar.jpg",
+    "categoria": "portfolio"
+  },
+
+  {
+    "id": 2,
+    "nome": "Low Fade Moderno",
+    "descricao": "Low fade com acabamento limpo e topo alinhado.",
+    "preco": "Serviço realizado",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDrpz7eux8G0zBwDBxciN5LMTkVCkyxSvLw7T5NiMP-i06SaHywf_wZo&s=10",
+    "categoria": "portfolio"
+  },
+
+  {
+    "id": 3,
+    "nome": "Mid Fade com Topo Texturizado",
+    "descricao": "Laterais em degradê médio com topo estilizado.",
+    "preco": "Serviço realizado",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1hnQLicTqpWeNPG7YcYBy9-Y5Z_iVxigXeuYdfaFNiPjl97_DdM4XGTo&s=10",
+    "categoria": "portfolio"
+  },
+
+  {
+    "id": 4,
+    "nome": "High Fade Marcado",
+    "descricao": "Degradê alto com contraste moderno.",
+    "preco": "Serviço realizado",
+    "img": "https://cdn.manualdohomem.com.br/?w=750&h=750&key=aHR0cHM6Ly9tYW51YWxkb2hvbWVtbW9kZXJuby5jb20uYnI=&u=%2Ffiles%2F2016%2F09%2F100-cortes-de-cabelo-masculino-para-voce-se-inspirar-100-cortes-de-cabelo-masculino-para-voce-se-inspirar.jpg",
+    "categoria": "portfolio"
+  },
+
+  {
+    "id": 5,
+    "nome": "Undercut Estilizado",
+    "descricao": "Laterais baixas com topo volumoso penteado.",
+    "preco": "Serviço realizado",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDrpz7eux8G0zBwDBxciN5LMTkVCkyxSvLw7T5NiMP-i06SaHywf_wZo&s=10",
+    "categoria": "portfolio"
+  },
+
+  {
+    "id": 6,
+    "nome": "Corte Social Masculino",
+    "descricao": "Estilo tradicional com acabamento moderno.",
+    "preco": "Serviço realizado",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1hnQLicTqpWeNPG7YcYBy9-Y5Z_iVxigXeuYdfaFNiPjl97_DdM4XGTo&s=10",
+    "categoria": "portfolio"
+  },
+
+  {
+    "id": 7,
+    "nome": "Fade com Navalhado",
+    "descricao": "Detalhamento com desenho lateral discreto.",
+    "preco": "Serviço realizado",
+    "img": "https://cdn.manualdohomem.com.br/?w=750&h=750&key=aHR0cHM6Ly9tYW51YWxkb2hvbWVtbW9kZXJuby5jb20uYnI=&u=%2Ffiles%2F2016%2F09%2F100-cortes-de-cabelo-masculino-para-voce-se-inspirar-100-cortes-de-cabelo-masculino-para-voce-se-inspirar.jpg",
+    "categoria": "portfolio"
+  },
+
+  {
+    "id": 8,
+    "nome": "Corte Infantil",
+    "descricao": "Corte adaptado para público infantil com acabamento suave.",
+    "preco": "Serviço realizado",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWDrpz7eux8G0zBwDBxciN5LMTkVCkyxSvLw7T5NiMP-i06SaHywf_wZo&s=10",
+    "categoria": "portfolio"
+  }
+]
