@@ -1,11 +1,13 @@
 [
   {
     "nome": "Corte masculino",
+    "img": "https://negociosdebeleza.beautyfair.com.br/wp-content/uploads/2025/10/corte-de-cabelo-masculino-mullet-moderno-683x1024.jpeg",
     "descricao": "Corte moderno degradê",
     "preco": "R$ 25"
   },
   {
     "nome": "Barba",
+    "img" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4kOI3uoEuRhqRPBJ6t23MpGG7n0z49K6VRUIwoH5RiAcZPbq1kzfCB7Y&s=10",
     "descricao": "Modelagem completa",
     "preco": "R$ 15"
   }
