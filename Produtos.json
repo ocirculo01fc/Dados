@@ -1,40 +1,75 @@
 [
   {
-    "id": 1,
+    "id": "1",
     "nome": "Minoxidil 5%",
-    "descricao": "Auxilia no crescimento capilar e combate a queda de cabelo.",
-    "preco": "R$ 39,90",
-    "img": "https://m.media-amazon.com/images/I/61S4QF4Kc6L._AC_SL1500_.jpg"
+    "descricao": "Auxilia no crescimento da barba e no fortalecimento dos fios.",
+    "preco": "37,99",
+    "img": "https://images.tcdn.com.br/img/img_prod/726054/minoxidil_kirkland_5_original_2_meses_de_tratamento_9_1_ca1094a7f7196f9213c497b2d0e94636.jpg"
   },
-
   {
-    "id": 2,
-    "nome": "Pomada Modeladora Matte",
-    "descricao": "Fixação forte com efeito seco natural para penteados modernos.",
-    "preco": "R$ 24,90",
-    "img": "https://m.media-amazon.com/images/I/61YpS3cH9nL._AC_SL1500_.jpg"
+    "id": "2",
+    "nome": "Pomada modeladora",
+    "descricao": "Ideal para estilizar o cabelo com fixação média ou forte.",
+    "preco": "30,99",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4aD8RoQ7uGkYqpWZz6v7yJXz8wUXI4SBHZyxgLEQoAQ&s=10"
   },
-
   {
-    "id": 3,
-    "nome": "Gel Fixador Masculino",
-    "descricao": "Fixação duradoura com brilho moderado para estilos clássicos.",
-    "preco": "R$ 19,90",
-    "img": "https://m.media-amazon.com/images/I/51Yp6s9C9ML._AC_SL1000_.jpg"
+    "id": "3",
+    "nome": "Gel de barbear",
+    "descricao": "Facilita o deslize da lâmina e reduz irritações na pele.",
+    "preco": "74,99",
+    "img": "https://foxformen.com.br/wp-content/uploads/2020/08/shaving-gel-gel-de-barbear-1kg-fox-for-men-600x600.png"
   },
-
   {
-    "id": 4,
-    "nome": "Shampoo Antiqueda Men",
-    "descricao": "Fortalece os fios e reduz a queda diária do cabelo.",
-    "preco": "R$ 29,90",
-    "img": "https://m.media-amazon.com/images/I/61VQh1Y6rLL._AC_SL1500_.jpg"
+    "id": "4",
+    "nome": "Espuma de barbear",
+    "descricao": "Amacia os pelos e prepara a pele para o barbear.",
+    "preco": "19,99",
+    "img": "https://product-data.raiadrogasil.io/images/3520983.webp"
   },
-
   {
-    "id": 5,
-    "nome": "Leave-in Masculino",
-    "descricao": "Proteção térmica e hidratação para cabelos danificados.",
+    "id": "5",
+    "nome": "Óleo para barba",
+    "descricao": "Hidrata e fortalece os fios da barba.",
+    "preco": "15,99",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQppc7cjGGVF2Zv9OXNLEziadeUCEAAWieguLvpsyu3apVOX9hMmL-ch663&s=10"
+  },
+  {
+    "id": "6",
+    "nome": "Balm para barba",
+    "descricao": "Modela e hidrata a barba ao mesmo tempo.",
+    "preco": "34,99",
+    "img": "https://foxformen.com.br/wp-content/uploads/2023/11/Balm-1.png"
+  },
+  {
+    "id": "7",
+    "nome": "Loção pós-barba",
+    "descricao": "Refresca e acalma a pele após o barbear.",
+    "preco": "64,99",
+    "img": "https://product-data.raiadrogasil.io/images/14614715.webp"
+  },
+  {
+    "id": "8",
+    "nome": "Talco profissional",
+    "descricao": "Remove resíduos de cabelo e proporciona frescor.",
+    "preco": "14,50",
+    "img": "https://cdn.sistemawbuy.com.br/arquivos/3ddcfd86ffb12b18f7db786c7bcedd12/produtos/64c2c48e0cea2/yhnvrves_o-64c2c48f5ec7b_mini.jpg"
+  },
+  {
+    "id": "9",
+    "nome": "Tônico capilar",
+    "descricao": "Estimula o couro cabeludo e fortalece os fios.",
+    "preco": "19,99",
+    "img": "https://acdn-us.mitiendanube.com/stores/315/601/products/4083_tonico_capilar_acelera_crescimento_intensive_abelha_rainha_60ml1-f090c35a9e7d54927216923037742576-480-0.webp"
+  },
+  {
+    "id": "10",
+    "nome": "Shampoo para barba",
+    "descricao": "Limpa profundamente os fios da barba sem ressecar.",
+    "preco": "19,99",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsqCyqx3IS3Ne52CL6G8o43Z-dn5YblnmhXIwvZD8q7rdi32RaQwRjQXg&s=10"
+  }
+]    "descricao": "Proteção térmica e hidratação para cabelos danificados.",
     "preco": "R$ 34,90",
     "img": "https://m.media-amazon.com/images/I/61gHPrPHzxL._AC_SL1500_.jpg"
   },
