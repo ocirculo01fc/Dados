@@ -69,48 +69,4 @@
     "preco": "19,99",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsqCyqx3IS3Ne52CL6G8o43Z-dn5YblnmhXIwvZD8q7rdi32RaQwRjQXg&s=10"
   }
-]    "descricao": "Proteção térmica e hidratação para cabelos danificados.",
-    "preco": "R$ 34,90",
-    "img": "https://m.media-amazon.com/images/I/61gHPrPHzxL._AC_SL1500_.jpg"
-  },
-
-  {
-    "id": 6,
-    "nome": "Cera Modeladora Extra Forte",
-    "descricao": "Alta fixação ideal para penteados estruturados.",
-    "preco": "R$ 27,90",
-    "img": "https://m.media-amazon.com/images/I/71d7nQhDWbL._AC_SL1500_.jpg"
-  },
-
-  {
-    "id": 7,
-    "nome": "Shampoo Anticaspa Men",
-    "descricao": "Combate caspa e oleosidade mantendo o couro cabeludo saudável.",
-    "preco": "R$ 22,90",
-    "img": "https://m.media-amazon.com/images/I/71Y+oXwM9oL._AC_SL1500_.jpg"
-  },
-
-  {
-    "id": 8,
-    "nome": "Pomada Efeito Brilho",
-    "descricao": "Ideal para penteados clássicos com acabamento brilhante.",
-    "preco": "R$ 21,90",
-    "img": "https://m.media-amazon.com/images/I/61Y0F2DwQEL._AC_SL1500_.jpg"
-  },
-
-  {
-    "id": 9,
-    "nome": "Tônico Capilar Crescimento",
-    "descricao": "Estimula o crescimento e fortalece a raiz do cabelo.",
-    "preco": "R$ 42,90",
-    "img": "https://m.media-amazon.com/images/I/61X9hRkX4xL._AC_SL1500_.jpg"
-  },
-
-  {
-    "id": 10,
-    "nome": "Gel Cola Profissional",
-    "descricao": "Fixação extrema para penteados duradouros.",
-    "preco": "R$ 18,90",
-    "img": "https://m.media-amazon.com/images/I/61x6F2X8WzL._AC_SL1500_.jpg"
-  }
 ]
