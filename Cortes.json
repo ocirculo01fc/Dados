@@ -1,98 +1,79 @@
 [
   {
-    "nome": "Degradê (Fade)",
-    "descricao": "Laterais com degradê suave e topo moderno.",
-    "img": "https://forteseries.com/cdn/shop/articles/low_fade_mens_haircut.jpg?v=1730000000",
+    "nome": "Corte Degradê",
+    "descricao": "Degradê profissional (low, mid ou high fade).",
+    "preco": "45",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeMDef9itz29vOydQRLkl4Xoo5y1VLR-CzAzx6vQFL2KeXLb_DnPWRszA&s=10",
     "categoria": "degrade"
   },
   {
-    "nome": "Low Fade",
-    "descricao": "Degradê baixo discreto e elegante.",
-    "img": "https://therighthairstyles.com/wp-content/uploads/2026/01/low-fade-haircut-men.jpg",
-    "categoria": "degrade"
+    "nome": "Corte Social",
+    "descricao": "Corte clássico com tesoura e acabamento.",
+    "preco": "40",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVJ7xyngFMoLxe5hqtrRoGTx4wuzE4AHLwyiZ7IkvRaRrruNF7ak0ffxc&s=10",
+    "categoria": "social"
   },
   {
-    "nome": "Mid Fade",
-    "descricao": "Degradê médio com equilíbrio entre topo e laterais.",
-    "img": "https://forteseries.com/cdn/shop/articles/mid_fade_mens_haircut.jpg",
-    "categoria": "degrade"
+    "nome": "Corte Máquina",
+    "descricao": "Corte simples uniforme com máquina.",
+    "preco": "30",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ8X66PK2o-brVFE-A7UkdP7CamqZdBcIjyWT8i7T0nFU5JgtKqzyHew3Q&s=10",
+    "categoria": "simples"
   },
   {
-    "nome": "High Fade",
-    "descricao": "Degradê alto com visual moderno e marcante.",
-    "img": "https://i.pinimg.com/originals/high-fade-mens-haircut-real.jpg",
-    "categoria": "degrade"
+    "nome": "Corte Infantil",
+    "descricao": "Corte masculino infantil.",
+    "preco": "30",
+    "img": "https://i.pinimg.com/736x/32/3c/3c/323c3c6b8348398fb368296017ea5bd0.jpg",
+    "categoria": "infantil"
   },
   {
-    "nome": "Undercut",
-    "descricao": "Laterais raspadas com topo volumoso.",
-    "img": "https://manforhimself.com/wp-content/uploads/2025/undercut-men-real.jpg",
-    "categoria": "moderno"
+    "nome": "Barba Completa",
+    "descricao": "Aparar, desenhar e finalizar barba.",
+    "preco": "30",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbdG36so5rVjs6BlR0ZReyHSeOUlYcO0TrNeZUGmszMg&s=10",
+    "categoria": "barba"
   },
   {
-    "nome": "Pompadour",
-    "descricao": "Topo alto com estilo clássico e elegante.",
-    "img": "https://forteseries.com/cdn/shop/articles/pompadour-haircut-men.jpg",
-    "categoria": "classico"
+    "nome": "Barba Navalha",
+    "descricao": "Barba completa com navalha.",
+    "preco": "40",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4xM80_upGGp5D65rWRAVVzc74LfrcXhasb40jiCnyqnwddC51bV3HMqot&s=10",
+    "categoria": "barba"
   },
   {
-    "nome": "Crew Cut",
-    "descricao": "Curto e prático, estilo militar moderno.",
-    "img": "https://therighthairstyles.com/wp-content/uploads/crew-cut-men-real-photo.jpg",
-    "categoria": "curto"
+    "nome": "Pezinho",
+    "descricao": "Acabamento lateral e nuca.",
+    "preco": "15",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRCNLi1ogAe1t9gfccDyxaOe4LWKd3uEWN5OsuWtOaqA&s=10",
+    "categoria": "acabamento"
   },
   {
-    "nome": "Buzz Cut",
-    "descricao": "Corte uniforme baixo e fácil manutenção.",
-    "img": "https://i.pinimg.com/originals/buzz-cut-men-real-2025.jpg",
-    "categoria": "curto"
+    "nome": "Sobrancelha",
+    "descricao": "Limpeza e alinhamento masculino.",
+    "preco": "15",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD-5BOKVxexIiKZXCyZBGuuPxJZazcWdCHMi4nF3ON0A&s=10",
+    "categoria": "estetica"
   },
   {
-    "nome": "Side Part",
-    "descricao": "Divisão lateral clássica e elegante.",
-    "img": "https://forteseries.com/cdn/shop/articles/side-part-old-money-haircut.jpg",
-    "categoria": "classico"
+    "nome": "Corte + Barba",
+    "descricao": "Combo corte completo + barba.",
+    "preco": "65",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRYCzDRtL_c9cXD7a2KBffsSVSCPEGsVXI_A6fn7LBh-UIM0319RtJ5B4&s=10",
+    "categoria": "combo"
   },
   {
-    "nome": "French Crop",
-    "descricao": "Franja curta com laterais modernas.",
-    "img": "https://manforhimself.com/wp-content/uploads/2025/french-crop-men-real.jpg",
-    "categoria": "moderno"
+    "nome": "Degradê + Barba",
+    "descricao": "Degradê profissional + barba completa.",
+    "preco": "70",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5b_ZTpas6zcmYOq9Zo_pSqdps3b7bWovnb2wxossVkQ&s=10",
+    "categoria": "combo"
   },
   {
-    "nome": "Textured Crop",
-    "descricao": "Topo curto e texturizado com laterais degradê suave.",
-    "img": "https://forteseries.com/cdn/shop/articles/textured-crop-haircut-men.jpg",
-    "categoria": "moderno"
-  },
-  {
-    "nome": "Mullet Moderno",
-    "descricao": "Nuca mais longa com textura natural, laterais curtas.",
-    "img": "https://lowfadestyles.com/wp-content/uploads/modern-mullet-2026-men.jpg",
-    "categoria": "moderno"
-  },
-  {
-    "nome": "Flow Hair",
-    "descricao": "Cabelo médio com fluxo natural e movimento, degradê leve.",
-    "img": "https://therighthairstyles.com/wp-content/uploads/flow-haircut-men-2026.jpg",
-    "categoria": "moderno"
-  },
-  {
-    "nome": "Old Money Haircut",
-    "descricao": "Estilo elegante com volume controlado e laterais limpas.",
-    "img": "https://forteseries.com/cdn/shop/articles/old-money-haircut-men.jpg",
-    "categoria": "classico"
-  },
-  {
-    "nome": "Burst Fade",
-    "descricao": "Degradê com curva nas laterais, visual dinâmico e moderno.",
-    "img": "https://forteseries.com/cdn/shop/articles/burst-fade-haircut-men.jpg",
-    "categoria": "degrade"
-  },
-  {
-    "nome": "Caesar Cut",
-    "descricao": "Franja reta curta com laterais limpas, estilo clássico.",
-    "img": "https://therighthairstyles.com/wp-content/uploads/caesar-cut-men-real.jpg",
-    "categoria": "classico"
+    "nome": "Corte + Sobrancelha",
+    "descricao": "Corte completo com design de sobrancelha.",
+    "preco": "50",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRinuf0P3DQuweljdMitCcZprtVIkWXnitiRP40HxEQ5-_eo6DvhCtcIek&s=10",
+    "categoria": "combo"
   }
 ]
